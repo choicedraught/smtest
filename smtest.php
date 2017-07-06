@@ -5,16 +5,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width">
 <link rel="shortcut icon" href="/favicon.ico">
-<title>The University Of Western Australia</title>
+<title>SiteMinder Diagnostics Page</title>
 
-<meta name="description" content="UWA SiteMinder Diagnostics Page">
+<meta name="description" content="SiteMinder Diagnostics Page">
 <meta name="keywords" content="">
 
 <meta name="gaSiteName" content="corporate">
 <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900' rel='stylesheet' type='text/css'>
 
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.uwa.edu.au/assets/r-B6BE34619D738D15880CCD7B0B7C93D5/uwaCss.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="uwaCss.css" />
 <style>
 td {
   border: 1px solid black;
